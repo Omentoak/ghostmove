@@ -1,5 +1,5 @@
 // Tiene l'app disponibile anche senza connessione.
-const CACHE = 'moviola-mw56idk8';
+const CACHE = 'moviola-mw6x4n57';
 const SHELL = ['./', 'index.html', 'sf.js', 'sf.wasm', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'icon-180.png'];
 
 self.addEventListener('install', (e) => {
